@@ -4,4 +4,5 @@
 
 def roll
   puts random(1..6)
+  roll
 end
